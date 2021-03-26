@@ -1,6 +1,6 @@
-import CartItem from "./CartItem";
+import Cart from "./Cart";
 function App() {
-  return <CartItem />;
+  return <Cart />;
 }
 
 export default App;
